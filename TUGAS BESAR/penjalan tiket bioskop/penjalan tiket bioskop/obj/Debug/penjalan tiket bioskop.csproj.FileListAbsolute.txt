@@ -1,0 +1,17 @@
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.exe.config
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.exe
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.pdb
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.btnproses.resources
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.Form2.resources
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.Form3.resources
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.Properties.Resources.resources
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.csproj.GenerateResource.Cache
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.exe
+C:\Users\ASUS\Music\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.pdb
+F:\11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.exe.config
+F:\11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.exe
+F:\11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.pdb
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.exe.config
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.exe
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.pdb

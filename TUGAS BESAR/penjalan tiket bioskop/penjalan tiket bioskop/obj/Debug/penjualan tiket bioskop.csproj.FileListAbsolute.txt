@@ -1,0 +1,18 @@
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjualan tiket bioskop.csprojResolveAssemblyReference.cache
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.Form2.resources
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.Form3.resources
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.Properties.Resources.resources
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjualan tiket bioskop.csproj.GenerateResource.Cache
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.exe
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan tiket bioskop.pdb
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.exe.config
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.exe
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\penjalan tiket bioskop.pdb
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\MySql.Data.dll
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\MySql.Web.dll
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\MySql.Data.xml
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\bin\Debug\MySql.Web.xml
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.form1.resources
+D:\TUNTUTAN\PT\TUGAS BESAR\penjalan tiket bioskop\penjalan tiket bioskop\obj\Debug\penjalan_tiket_bioskop.Form4.resources
